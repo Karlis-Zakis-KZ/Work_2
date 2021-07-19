@@ -1,0 +1,25 @@
+#container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+#leftThing {
+    width: 25%;
+    background-color: blue;
+}
+
+#content {
+    width: 75%;
+    background-image: url('/work/img/5_stavs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    text-indent: -9999px;
+    margin-bottom: 10px;
+}
+
+#rightThing {
+    width: 25%;
+    background-color: yellow;
+}

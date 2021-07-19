@@ -9,16 +9,6 @@ include "header.php";                 // (2) Include the header
 We're using PHP to provide you with dynamic content
 for a better web experience.
 </p>
-<div id="container">
-
-  <div id="leftThing">
-    Left Side Menu
-  </div>
-
-  <div id="content">
-    Random Content
-  </div>
-</div>
 <!-- end page content -->
 
 <?php
