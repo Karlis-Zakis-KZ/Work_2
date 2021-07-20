@@ -1,6 +1,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="css/main.css" />
+    <script type="text/javascript" src="/js/file.js"></script>
     <title><?php echo $title; ?></title>
 </head>
 <body>
