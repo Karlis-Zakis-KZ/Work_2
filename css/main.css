@@ -182,12 +182,12 @@ body {
 
 #content {
     width: 85%;
-    background-repeat: no-repeat;
-    background-size: cover;
+    position: relative;
 }
 
 img {
     width: 100%;
+    position: relative;
 }
 
 #rightThing {
@@ -354,3 +354,259 @@ h1 {
 
 
 /* The beggining */
+
+#tag1 {
+    float: left;
+    position: absolute;
+    left: 1210px;
+    top: 210px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+
+/* Pirmais Galdu Sets */
+
+#tag2 {
+    float: left;
+    position: absolute;
+    left: 1220px;
+    top: 410px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag3 {
+    float: left;
+    position: absolute;
+    left: 1130px;
+    top: 410px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag4 {
+    float: left;
+    position: absolute;
+    left: 1040px;
+    top: 410px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag5 {
+    float: left;
+    position: absolute;
+    left: 1220px;
+    top: 460px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag6 {
+    float: left;
+    position: absolute;
+    left: 1130px;
+    top: 460px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag7 {
+    float: left;
+    position: absolute;
+    left: 1040px;
+    top: 460px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+
+/* Otrais Galdu Sets */
+
+#tag8 {
+    float: left;
+    position: absolute;
+    left: 1220px;
+    top: 610px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag9 {
+    float: left;
+    position: absolute;
+    left: 1130px;
+    top: 610px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag10 {
+    float: left;
+    position: absolute;
+    left: 1040px;
+    top: 610px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag11 {
+    float: left;
+    position: absolute;
+    left: 1220px;
+    top: 660px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag12 {
+    float: left;
+    position: absolute;
+    left: 1130px;
+    top: 660px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag13 {
+    float: left;
+    position: absolute;
+    left: 1040px;
+    top: 660px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+
+/* Treshais Galdu Sets */
+
+#tag14 {
+    float: left;
+    position: absolute;
+    left: 1220px;
+    top: 810px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag15 {
+    float: left;
+    position: absolute;
+    left: 1130px;
+    top: 810px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag16 {
+    float: left;
+    position: absolute;
+    left: 1040px;
+    top: 810px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag17 {
+    float: left;
+    position: absolute;
+    left: 1220px;
+    top: 860px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag18 {
+    float: left;
+    position: absolute;
+    left: 1130px;
+    top: 860px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}
+
+#tag19 {
+    float: left;
+    position: absolute;
+    left: 1040px;
+    top: 860px;
+    z-index: 1000;
+    background-color: #92AD40;
+    padding: 5px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: bold;
+}

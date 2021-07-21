@@ -19,7 +19,44 @@ include "header.php";                 // (2) Include the header
   </div>
 
   <div id="content">
+    <!-- Galdi      -->
+    <div id="tag1">Featured</div>
+    <!-- Galdu sets  -->
+    <div id="tag2">Featured</div>
+    <div id="tag3">Featured</div>
+    <div id="tag4">Featured</div>
+    <div id="tag5">Featured</div>
+    <div id="tag6">Featured</div>
+    <div id="tag7">Featured</div>
+    <!-- Galdu sets  -->
+    <div id="tag8">Featured</div>
+    <div id="tag9">Featured</div>
+    <div id="tag10">Featured</div>
+    <div id="tag11">Featured</div>
+    <div id="tag12">Featured</div>
+    <div id="tag13">Featured</div>
+    <!-- Galdu sets  -->
+    <div id="tag14">Featured</div>
+    <div id="tag15">Featured</div>
+    <div id="tag16">Featured</div>
+    <div id="tag17">Featured</div>
+    <div id="tag18">Featured</div>
+    <div id="tag19">Featured</div>
+    <!-- Galdu sets  -->
+
+
+
+
+
+
+
+
+
+
+
+
     <img src='/work/img/5_stavs.png' />
+    
   </div>
 </div>
 <!-- end page content -->
