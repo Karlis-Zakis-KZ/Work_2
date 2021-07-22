@@ -20,30 +20,43 @@ include "header.php";                 // (2) Include the header
 
   <div id="content">
     <!-- Galdi      -->
-    <div id="tag1">Featured</div>
+    <div id="tag1" class="main_tag">Featured</div>
     <!-- Galdu sets  -->
-    <div id="tag2">Featured</div>
-    <div id="tag3">Featured</div>
-    <div id="tag4">Featured</div>
-    <div id="tag5">Featured</div>
-    <div id="tag6">Featured</div>
-    <div id="tag7">Featured</div>
+    <div id="tag2" class="main_tag">Featured</div>
+    <div id="tag3" class="main_tag">Featured</div>
+    <div id="tag4" class="main_tag">Featured</div>
+    <div id="tag5" class="main_tag">Featured</div>
+    <div id="tag6" class="main_tag">Featured</div>
+    <div id="tag7" class="main_tag">Featured</div>
     <!-- Galdu sets  -->
-    <div id="tag8">Featured</div>
-    <div id="tag9">Featured</div>
-    <div id="tag10">Featured</div>
-    <div id="tag11">Featured</div>
-    <div id="tag12">Featured</div>
-    <div id="tag13">Featured</div>
+    <div id="tag8" class="main_tag">Featured</div>
+    <div id="tag9" class="main_tag">Featured</div>
+    <div id="tag10" class="main_tag">Featured</div>
+    <div id="tag11" class="main_tag">Featured</div>
+    <div id="tag12" class="main_tag">Featured</div>
+    <div id="tag13" class="main_tag">Featured</div>
     <!-- Galdu sets  -->
-    <div id="tag14">Featured</div>
-    <div id="tag15">Featured</div>
-    <div id="tag16">Featured</div>
-    <div id="tag17">Featured</div>
-    <div id="tag18">Featured</div>
-    <div id="tag19">Featured</div>
+    <div id="tag14" class="main_tag">Featured</div>
+    <div id="tag15" class="main_tag">Featured</div>
+    <div id="tag16" class="main_tag">Featured</div>
+    <div id="tag17" class="main_tag">Featured</div>
+    <div id="tag18" class="main_tag">Featured</div>
+    <div id="tag19" class="main_tag">Featured</div>
     <!-- Galdu sets  -->
-
+    <div id="tag20" class="main_tag">Featured</div>
+    <div id="tag21" class="main_tag">Featured</div>
+    <div id="tag22" class="main_tag">Featured</div>
+    <div id="tag23" class="main_tag">Featured</div>
+    <!-- Galdu sets  -->
+    <div id="tag24" class="main_tag">Featured</div>
+    <div id="tag25" class="main_tag">Featured</div>
+    <div id="tag26" class="main_tag">Featured</div>
+    <div id="tag27" class="main_tag">Featured</div>
+    <!-- Galdu sets  -->
+    <div id="tag28" class="main_tag">Featured</div>
+    <div id="tag29" class="main_tag">Featured</div>
+    <div id="tag30" class="main_tag">Featured</div>
+    <div id="tag31" class="main_tag">Featured</div>
 
 
 

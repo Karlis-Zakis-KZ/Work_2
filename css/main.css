@@ -355,258 +355,209 @@ h1 {
 
 /* The beggining */
 
-#tag1 {
+.main_tag {
     float: left;
     position: absolute;
-    left: 1210px;
-    top: 210px;
     z-index: 1000;
     background-color: #92AD40;
     padding: 5px;
     color: #FFFFFF;
     opacity: 80%;
     font-weight: bold;
+}
+
+#tag1 {
+    left: 85%;
+    top: 22%;
 }
 
 
 /* Pirmais Galdu Sets */
 
 #tag2 {
-    float: left;
-    position: absolute;
-    left: 1220px;
-    top: 410px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 85%;
+    top: 44%;
 }
 
 #tag3 {
-    float: left;
-    position: absolute;
-    left: 1130px;
-    top: 410px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 78.5%;
+    top: 44%;
 }
 
 #tag4 {
-    float: left;
-    position: absolute;
-    left: 1040px;
-    top: 410px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 72%;
+    top: 44%;
 }
 
 #tag5 {
-    float: left;
-    position: absolute;
-    left: 1220px;
-    top: 460px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 85%;
+    top: 50%;
 }
 
 #tag6 {
-    float: left;
-    position: absolute;
-    left: 1130px;
-    top: 460px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 78.5%;
+    top: 50%;
 }
 
 #tag7 {
-    float: left;
-    position: absolute;
-    left: 1040px;
-    top: 460px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 72%;
+    top: 50%;
 }
 
 
 /* Otrais Galdu Sets */
 
 #tag8 {
-    float: left;
-    position: absolute;
-    left: 1220px;
-    top: 610px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 85%;
+    top: 66%;
 }
 
 #tag9 {
-    float: left;
-    position: absolute;
-    left: 1130px;
-    top: 610px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 78.5%;
+    top: 66%;
 }
 
 #tag10 {
-    float: left;
-    position: absolute;
-    left: 1040px;
-    top: 610px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 72%;
+    top: 66%;
 }
 
 #tag11 {
-    float: left;
-    position: absolute;
-    left: 1220px;
-    top: 660px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 85%;
+    top: 72%;
 }
 
 #tag12 {
-    float: left;
-    position: absolute;
-    left: 1130px;
-    top: 660px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 78.5%;
+    top: 72%;
 }
 
 #tag13 {
-    float: left;
-    position: absolute;
-    left: 1040px;
-    top: 660px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 72%;
+    top: 72%;
 }
 
 
 /* Treshais Galdu Sets */
 
 #tag14 {
-    float: left;
-    position: absolute;
-    left: 1220px;
-    top: 810px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 85%;
+    top: 87%;
 }
 
 #tag15 {
-    float: left;
-    position: absolute;
-    left: 1130px;
-    top: 810px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 78.5%;
+    top: 87%;
 }
 
 #tag16 {
-    float: left;
-    position: absolute;
-    left: 1040px;
-    top: 810px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 72%;
+    top: 87%;
 }
 
 #tag17 {
-    float: left;
-    position: absolute;
-    left: 1220px;
-    top: 860px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 85%;
+    top: 93%;
 }
 
 #tag18 {
-    float: left;
-    position: absolute;
-    left: 1130px;
-    top: 860px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 78.5%;
+    top: 93%;
 }
 
 #tag19 {
-    float: left;
-    position: absolute;
-    left: 1040px;
-    top: 860px;
-    z-index: 1000;
-    background-color: #92AD40;
-    padding: 5px;
-    color: #FFFFFF;
-    opacity: 80%;
-    font-weight: bold;
+    left: 72%;
+    top: 93%;
+}
+
+
+/* Ceturtais Galdu Sets */
+
+#tag20 {
+    left: 85%;
+    top: 109%;
+}
+
+#tag21 {
+    left: 78.5%;
+    top: 109%;
+}
+
+#tag22 {
+    left: 85%;
+    top: 115%;
+}
+
+#tag23 {
+    left: 78.5%;
+    top: 115%;
+}
+
+
+/* Piektais Galdu Sets */
+
+#tag24 {
+    left: 85%;
+    top: 138%;
+}
+
+#tag25 {
+    left: 78.5%;
+    top: 138%;
+}
+
+#tag26 {
+    left: 85%;
+    top: 144%;
+}
+
+#tag27 {
+    left: 78.5%;
+    top: 144%;
+}
+
+
+/* Sestais Galdu Sets */
+
+#tag24 {
+    left: 85%;
+    top: 138%;
+}
+
+#tag25 {
+    left: 78.5%;
+    top: 138%;
+}
+
+#tag26 {
+    left: 85%;
+    top: 144%;
+}
+
+#tag27 {
+    left: 78.5%;
+    top: 144%;
+}
+
+
+/* Septitais Galdu Sets */
+
+#tag28 {
+    left: 85%;
+    top: 159%;
+}
+
+#tag29 {
+    left: 78.5%;
+    top: 159%;
+}
+
+#tag30 {
+    left: 85%;
+    top: 165%;
+}
+
+#tag31 {
+    left: 78.5%;
+    top: 165%;
 }
